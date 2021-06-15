@@ -1,0 +1,145 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    overflow-x: hidden;
+}
+
+header nav{
+    background-image: -webkit-linear-gradient(
+        0deg
+        ,#766dff 0%,#88f3ff 100%);
+    width: 1394px;
+    height: 80px;
+    font-family: 'Roboto', sans-serif;
+    
+}
+header nav ul{
+    list-style-type: none;
+}
+header nav ul li {
+    float: right;
+    margin-top: 28px;
+    margin-right: 84px;
+    font-weight: 600;
+}
+
+header nav ul li:first-child{
+    float: left;
+    margin-left: 68px;
+    
+}
+#meet{
+    font-size: 22px;
+    font-weight: bolder;
+}
+
+a{
+color: white;
+text-decoration: none;
+font-size: 12px;
+}
+
+ #sec1{
+    height: 1349px;
+    position: relative;
+    z-index: 1;
+    background-image: -webkit-linear-gradient(
+0deg
+,#766dff 0%,#88f3ff 100%);
+margin-bottom: 200px;
+width: 1394px;
+} 
+#div1{
+    position: absolute;
+    width: 1170px;
+    height: 760px;
+    background-color: white;
+    border-radius: 20px;
+    margin-left: 87px;
+    margin-top: 138px;
+}
+#div1 img{
+    margin-top: 40px;
+    margin-left: 40px;
+}
+#infoDiv{
+    float: right;
+    width: 413px;
+    margin-top: 65px;
+
+}
+#infoDiv h6{
+    font-size: 14px;
+    color: black;
+    margin-left: 70px;
+    letter-spacing: 3px;
+    font-weight: bolder;
+    font-family: sans-serif;
+    font-weight: 500;
+    margin-bottom: 15px;
+
+}
+#infoDiv h3{
+    font-size: 48px;
+    font-weight: bolder;
+    margin-left: 66px;
+    margin-bottom: 20px;
+    font-family: sans-serif;
+}
+#infoDiv h4{
+  font-size: 16px;
+  font-family: sans-serif;
+  font-weight: bolder;
+  margin-left: 66px;
+  margin-bottom: 20px;
+}
+#infoDiv p{
+    width: 317px;
+    height: 104px;
+    font-size: 16px;
+    font-family: sans-serif;
+    color: #777777;
+    margin-left: 66px;
+  margin-bottom: 20px;
+  line-height: 26px;
+}
+#infoDiv ul
+{
+    margin-left: 66px;
+    margin-top: 20px;
+}
+#infoDiv ul li
+{
+    padding: 20px;
+    padding-left: 0%;
+}
+#infoDiv ul li i
+{
+    color: #777777;
+    font-weight: bolder;
+    width: 20px;
+    font-size: 20px;
+    padding-right: 10px;
+}
+#infoDiv ul li a
+{
+    color: #777777;
+    text-decoration: none;
+    font-size: 16px;
+    font-family: sans-serif;
+}
+#divI a i {
+    color: #ebe0e0;
+    font-size: 40px;
+    margin-left: 4px;
+}
+#divI {
+    margin-left: 66px;
+margin-top: 30px;
+}
+#divI a i:hover{
+    background-image: -webkit-linear-gradient(
+        0deg
+        ,#766dff 0%,#88f3ff 100%);
+}

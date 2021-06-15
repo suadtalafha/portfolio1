@@ -41,7 +41,7 @@ font-size: 12px;
 }
 
  #sec1{
-    height: 1349px;
+    height: 760px;
     position: relative;
     z-index: 1;
     background-image: -webkit-linear-gradient(
@@ -58,6 +58,7 @@ width: 1394px;
     border-radius: 20px;
     margin-left: 87px;
     margin-top: 138px;
+    box-shadow: 0 20px 80px 0 rgb(153 153 153 / 30%);
 }
 #div1 img{
     margin-top: 40px;
@@ -67,7 +68,7 @@ width: 1394px;
     float: right;
     width: 413px;
     margin-top: 65px;
-
+    
 }
 #infoDiv h6{
     font-size: 14px;
